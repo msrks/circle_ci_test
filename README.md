@@ -1,5 +1,7 @@
 ## circle_ci_test
 
+[![CircleCI](https://circleci.com/gh/msrks/circle_ci_test.svg?style=svg)](https://circleci.com/gh/msrks/circle_ci_test)
+
 practice of CircleCI: develop Flaskr app. using CircleCI
 
 - https://github.com/pallets/flask/tree/master/examples/flaskr
